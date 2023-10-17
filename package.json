@@ -1,7 +1,7 @@
 {
   "name": "is-strictly-object",
   "version": "0.0.0-development",
-  "description": "A react library that encapsulates the native browser speech recognition api",
+  "description": "Checks if a value is strictly an object, not array, not null or also not a Date object",
   "main": "./lib/index.js",
   "files": [
     "lib/**/*"
