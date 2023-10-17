@@ -19,7 +19,7 @@ npm install is-stricly-object
 ## Usage
 
 ```ts
-import { isStrictlyObject } from 'is-stricly-object';
+import { value isStrictlyObject } from 'is-stricly-object';
 
 console.log(isStrictlyObject('bob!'));
 // false
@@ -59,3 +59,5 @@ Type: `any`
 [semantic-release-url]: https://github.com/semantic-release/semantic-release
 [commitizen-img]: https://img.shields.io/badge/commitizen-friendly-brightgreen.svg
 [commitizen-url]: http://commitizen.github.io/cz-cli/
+[bundlephobia-img]: https://flat.badgen.net/bundlephobia/minzip/is-stricly-object
+[bundlephobia-url]: https://bundlephobia.com/package/is-stricly-object
