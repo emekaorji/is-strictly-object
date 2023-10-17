@@ -19,7 +19,7 @@ npm install is-strictly-object
 ## Usage
 
 ```ts
-import { value isStrictlyObject } from 'is-strictly-object';
+import { isStrictlyObject } from 'is-strictly-object';
 
 console.log(isStrictlyObject('bob!'));
 // false
