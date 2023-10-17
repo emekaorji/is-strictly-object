@@ -8,7 +8,7 @@
 [![Semantic Release][semantic-release-img]][semantic-release-url]
 [![Package Size][bundlephobia-img]][bundlephobia-url]
 
-> Checks if a value is strictly an object, not array, null or also not a Date object
+> Checks if a value is strictly an object, not array, not null or also not a Date object
 
 ## Install
 
